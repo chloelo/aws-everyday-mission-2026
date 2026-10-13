@@ -7,3 +7,8 @@
 - Day 08｜把 Allow 移到最後，操作就會被允許嗎？
 - Day 09｜移出 Group 後，哪些權限會受到影響？
 - Day 10｜能扮演 Role，為什麼還是不能刪除報表？
+- Day 11｜三個 IP 分別落在哪個範圍？
+- Day 12｜改了 Subnet 名稱，也改了路由：哪個會影響對外路由？
+- Day 13｜現有設定能證明 public-orders 是 Public Subnet 嗎？
+- Day 14｜如何兼顧 App 與 Audit 的路由需求變更？
+- Day 15｜從目的 IP 判斷封包會使用哪條路由
