@@ -12,3 +12,7 @@
 - Day 13｜現有設定能證明 public-orders 是 Public Subnet 嗎？
 - Day 14｜如何兼顧 App 與 Audit 的路由需求變更？
 - Day 15｜從目的 IP 判斷封包會使用哪條路由
+- Day 16｜從 Web 與 DB 看連線方向
+- Day 17｜回應與新連線，SG 如何區分？
+- Day 18｜SSH 能連上，來源範圍該怎麼限縮？
+- Day 19｜Web 換 IP 後，DB 的 SG 來源還匹配嗎？
